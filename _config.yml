@@ -62,7 +62,7 @@ author:
   avatar : "/assets/images/WillK_HS.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
@@ -71,7 +71,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "@willhkessler"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/willhkessler"
 
@@ -83,9 +83,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "@willhkessler"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/willhkessler"
 
 defaults:
   # _posts
