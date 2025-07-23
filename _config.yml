@@ -60,11 +60,11 @@ plugins:
 author:
   name   : "William Kessler"
   avatar : "/assets/images/WillK_HS.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Health Geographer and Geospatial Data Specialist. My interests lie where maps, public health, and the outdoors intersect."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
+    - label: "Orcid iD"
+      icon: "fab fa-fw fa-orcid"
+      url: "https://orcid.org/my-orcid?orcid=0000-0003-3574-5400"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "www.linkedin.com/in/williamhkessler"
