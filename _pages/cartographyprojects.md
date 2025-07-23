@@ -1,6 +1,6 @@
 ---
 permalink: /cartographyprojects/
-title: "About"
+title: "Cartography Projects"
 layout: single
 classes: wide
 ---
