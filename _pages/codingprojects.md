@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /codingprojects/
 title: "Coding Projects"
 layout: single
 classes: wide
