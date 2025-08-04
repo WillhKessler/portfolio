@@ -32,9 +32,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-portfolio:
-  output: true
-  permalink: /:collection/:path/
+
 
 
 include:
@@ -90,7 +88,12 @@ footer:
     - label: "@willhkessler"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/willhkessler"
+# Collections
+portfolio:
+  output: true
+  permalink: /:collection/:path/
 
+# Defaults
 defaults:
   # _posts
   - scope:
