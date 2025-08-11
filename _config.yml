@@ -88,11 +88,13 @@ footer:
     - label: "@willhkessler"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/willhkessler"
-# Collections
-portfolio:
-  output: true
-  permalink: /:collection/:path/
 
+# Collections
+collections:
+  portfolio:
+    output: true
+
+    
 # Defaults
 defaults:
   # _posts
