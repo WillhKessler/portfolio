@@ -90,6 +90,7 @@ footer:
       url: "https://instagram.com/willhkessler"
 
 # Collections
+collections_dir: collections
 collections:
   portfolio:
     output: true
