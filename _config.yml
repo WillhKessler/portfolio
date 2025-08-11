@@ -94,10 +94,10 @@ collections_dir: collections
 collections:
   portfolio:
     output: true
-    permalink: /collections/:collection/:path/
+    permalink: /:collection/:path/
   anothercollection:
     output: true
-    permalink: /collections/:collection/:path/
+    permalink: /:collection/:path/
     
   
 
