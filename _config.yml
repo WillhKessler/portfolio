@@ -92,6 +92,7 @@ footer:
 # Collections
 collections_dir: collections
 collections:
+  collections_dir: collections
   portfolio:
     output: true
     permalink: /:collection/:path/
