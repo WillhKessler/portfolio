@@ -1,9 +1,9 @@
 ---
-permalink: /codingprojects/
-title: "Coding Projects"
+permalink: /codetutorials/
+title: "Code Tutorials"
 layout: single
 classes: wide
 ---
 
-- Project 1
-- Project 2
+- Code Tutorial 1
+- Code Tutorial 2
