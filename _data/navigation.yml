@@ -1,10 +1,12 @@
 main:
-  - title: "Portfolio"
+  - title: "Cartography Portfolio"
     url: /portfolio/
-  - title: "Cartography Projects"
-    url: /cartographyprojects/
-  - title: "Coding Projects"
-    url: /codingprojects/
+  - title: "Coding Portfolio"
+    url: /codeportfolio/
+  - title: "GIS Tutorials"
+    url: /gistutorials/
+  - title: "codetutorials"
+    url: /codetutorials/
   - title: "Adventures"
     url: /adventures/
   - title: "About"
