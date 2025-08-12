@@ -94,7 +94,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  anothercollection:
+  codeportfolio:
     output: true
     permalink: /:collection/:path/
     
