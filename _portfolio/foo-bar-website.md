@@ -1,16 +1,17 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "The Great Divide Mountain Bike Route"
+excerpt: "A personal project celebrating a 2022 cycling trip from Banff, AB to Antelope Wells, NM. A study on single-color mapping"
 header:
   image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  teaser: assets/images/GDMBR_portfolioclip2.png
 sidebar:
-  - title: "Role"
+  - title: "The Great Divide Mountain Bike Route"
     image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    image_alt: "placeholder image"
+    text: "ArcGIS Pro, route data from personal GPS data collection"
+  - title: "Tools and Techniques"
+    text: "Single-color map, relies on varying feature weights, opacity, and other symbology for clarity. Use of a pervasive scale technique to \n
+    indicate scale across the map. Custom map projection."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
