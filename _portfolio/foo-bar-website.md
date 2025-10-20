@@ -10,8 +10,7 @@ sidebar:
     image_alt: "placeholder image"
     text: "ArcGIS Pro, route data from personal GPS data collection"
   - title: "Tools and Techniques"
-    text: "Single-color map, relies on varying feature weights, opacity, and other symbology for clarity. Use of a pervasive scale technique to \n
-    indicate scale across the map. Custom map projection."
+    text: "Single-color map, relies on varying feature weights, opacity, and other symbology for clarity. Use of a pervasive scale technique to indicate scale across the map. Custom map projection."
 gallery:
   - url: /assets/images/GDMBR_portfolioclip2.png
     image_path: assets/images/GDMBR_portfolioclip2.png
@@ -24,8 +23,8 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+This cartography project was an exploration of single-color, large-format mapping stemming from the author's personal cycling trip across the United States on the Great Divide Mountain Bike Route (GDMBR). The Great Divide Mountain Bike Route is arguably the most famous long distance off-road cycling route in the world. First pioneered by the non-profit Adventure Cycling Association in 1998, the route remains predominantly unpaved while criss-crossing the roughly 2700 miles from Banff, Canada to Antelope Wells, New Mexico. 
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+{% include gallery caption="Examples of the GDMBR map" %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+The idea for this map stemmed from a map of the <a href="https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/appalachian-trail-map">Apalachian Trail </a> by ESRI's infamous John Nelson
