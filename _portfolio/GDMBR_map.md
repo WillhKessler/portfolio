@@ -15,9 +15,9 @@ gallery:
   - url: /assets/images/GDMBR_portfolioclip2.png
     image_path: assets/images/GDMBR_portfolioclip2.png
     alt: "Zoomed in view of Montana region of GDMBR"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
+  - url: /assets/images/White_12x36_portfolio_resize_v2.png
+    image_path: assets/images/White_12x36_portfolio_resize_v2.png
+    alt: "reduced resolution full-size GDMBR map"
   - url: /assets/images/unsplash-gallery-image-3.jpg
     image_path: assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
