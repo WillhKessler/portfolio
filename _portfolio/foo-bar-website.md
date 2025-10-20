@@ -13,9 +13,9 @@ sidebar:
     text: "Single-color map, relies on varying feature weights, opacity, and other symbology for clarity. Use of a pervasive scale technique to \n
     indicate scale across the map. Custom map projection."
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
+  - url: /assets/images/GDMBR_portfolioclip2.png
+    image_path: assets/images/GDMBR_portfolioclip2.png
+    alt: "Zoomed in view of Montana region of GDMBR"
   - url: /assets/images/unsplash-gallery-image-2.jpg
     image_path: assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
