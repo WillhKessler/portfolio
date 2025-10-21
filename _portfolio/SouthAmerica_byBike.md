@@ -2,8 +2,8 @@
 title: "South America by Bike"
 excerpt: "A commemoration of a 2017 cycling trip from Puerto Escondido, Colombia to Peru. Watercolors"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: assets/images/GDMBR_portfolioclip2.png
+  image: assets/images/SouthAmericaByBike_portfolioclip.png
+  teaser: assets/images/SouthAmericaByBike_portfolioclip.png
 sidebar:
   - title: "South America by Bike"
     text: "Fullsize 12 x 36 inches, 800dpi"
