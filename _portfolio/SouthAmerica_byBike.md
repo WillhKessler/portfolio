@@ -2,7 +2,7 @@
 title: "South America by Bike"
 excerpt: "A commemoration of a 2017 cycling trip from Puerto Escondido, Colombia to Peru. Watercolors"
 header:
-  image: assets/images/SouthAmericaByBike_portfolioclip.png
+  #image: assets/images/SouthAmericaByBike_portfolioclip.png
   teaser: assets/images/SouthAmericaByBike_portfolioclip.png
 sidebar:
   - title: "South America by Bike"
