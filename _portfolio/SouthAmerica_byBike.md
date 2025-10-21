@@ -11,7 +11,9 @@ sidebar:
     text: "ArcGIS Pro- mapping and layout
     route data from personal GPS data collection
     Watercolor map style, pervasive scale technique to indicate scale across the map"
-    image: assets/images/SouthAmericaByBike.png
+    url: /assets/images/SA_clip1.png
+    image_path: assets/images/SA_clip1.png
+    #image: assets/images/SouthAmericaByBike.png
     image_alt: "Reduced resolution full-size SA by bike map"
 gallery:
   - url: /assets/images/SA_clip1.png
