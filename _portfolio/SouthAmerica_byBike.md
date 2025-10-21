@@ -32,7 +32,7 @@ This cartography project was an exploration of single-color, large-format mappin
 
 
 
-{% include gallery caption="Examples of the GDMBR map" %}
+{% include gallery caption="Examples of the South America by Bike Route map" %}
 
 This map drew inspiration from <a href="https://alexhotchin.com/">Alex Hotchin's</a> beautiful hand drawn and watercolored maps. While Alex's style defies reproduction, I thought a watercolor style map would perfectly complement the raw imperfection that was this trip.  
 For the Route data, I used ArcPro's 'GPX to Feature' tool and the editing toolbox to create and stitch together line features from daily gps tracks (gpx files) collected using a Garmin cycling computer during the trip. 
