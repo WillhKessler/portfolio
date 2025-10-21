@@ -25,13 +25,13 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-The Great Divide Mountain Bike Route (GDMBR) is arguably the most famous long-distance off-road cycling route in the world. First pioneered by the non-profit Adventure Cycling Association in 1998, the route remains almost entirely unpaved along its roughly 2700 mile length from Banff, Canada to Antelope Wells, New Mexico. The route climbs nearly 200,000 feet of elevation as it criss-crosses the Continental Divide, and traverses the national treasures that are US and Canadian public lands. 
+In 2017, a friend set off on an ambitious first foray into bicycle touring. Freshly free from the shackles of higher education and itching to try something new, he decided to cycle from his family's home in Colombia as far south as a broke college student could get. As it turns out, that was somewhere in the high Andes of Peru.  
 
-This cartography project was an exploration of single-color, large-format mapping stemming from the author's personal cycling trip across the United States on the GDMBR in 2022. The monochromatic color scheme and limited features draws the eye to the magnitude of the adventure being presented. One of the primary highlights of the GDMBR beyond it's magnitude is the celebration of the US and Canadian public lands which are also highlighted here.  
+I designed this map to celebrate his huge trip, and gave it a style reminiscent of a hand-drawn watercolor map that a world traveler might sketch in their notebook. I made the layout full-sized at 12" wide and 36" long so that it would fit comfortably framed on the wall. Like my GDMBR map, I selected a limited number of cities and towns to orient the viewer, but not so many as to detract from the magnitude of the adventure being presented.  
 
 
 
-{% include gallery caption="Examples of the South America by Bike Route map" %}
+{% include gallery caption="A close look at this map shows colors and opacity suggesting a thin water color paint and penciled names and symbols" %}
 
 This map drew inspiration from <a href="https://alexhotchin.com/">Alex Hotchin's</a> beautiful hand drawn and watercolored maps. While Alex's style defies reproduction, I thought a watercolor style map would perfectly complement the raw imperfection that was this trip.  
 For the Route data, I used ArcPro's 'GPX to Feature' tool and the editing toolbox to create and stitch together line features from daily gps tracks (gpx files) collected using a Garmin cycling computer during the trip. 
