@@ -15,14 +15,14 @@ sidebar:
     image: assets/images/White_12x36_portfolio_resize_v2.png
     image_alt: "Reduced resolution full-size SA by bike map"
 gallery:
-  - url: /assets/images/GDMBR_portfolioclip2.png
-    image_path: assets/images/GDMBR_portfolioclip2.png
+  - url: /assets/images/SA_clip1.png
+    image_path: assets/images/SA_clip2.png
     alt: "Zoomed in view of Montana region of GDMBR"
-  - url: /assets/images/White_12x36_portfolio_resize_v2.png
-    image_path: assets/images/White_12x36_portfolio_resize_v2.png
+  - url: /assets/images/SA_clip2.png
+    image_path: assets/images/SA_clip2.png
     alt: "Reduced resolution full-size GDMBR map"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/SA_clip3.jpg
+    image_path: assets/images/SA_clip3.jpg
     alt: "placeholder image 3"
 ---
 
