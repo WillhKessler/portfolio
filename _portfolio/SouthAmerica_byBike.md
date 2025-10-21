@@ -15,13 +15,13 @@ sidebar:
     image_alt: "Reduced resolution full-size SA by bike map"
 gallery:
   - url: /assets/images/SA_clip1.png
-    image_path: assets/images/SA_clip2.png
+    image_path: assets/images/SA_clip1.png
     alt: "Zoomed in view of Montana region of GDMBR"
   - url: /assets/images/SA_clip2.png
     image_path: assets/images/SA_clip2.png
     alt: "Reduced resolution full-size GDMBR map"
-  - url: /assets/images/SA_clip3.jpg
-    image_path: assets/images/SA_clip3.jpg
+  - url: /assets/images/SA_clip3.png
+    image_path: assets/images/SA_clip3.png
     alt: "placeholder image 3"
 ---
 
