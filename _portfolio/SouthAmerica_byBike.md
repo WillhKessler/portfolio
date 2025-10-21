@@ -9,10 +9,9 @@ sidebar:
     text: "Fullsize 12 x 36 inches, 800dpi"
   - title: "Tools and Techniques"
     text: "ArcGIS Pro- mapping and layout
-    R- elevation profile creation
     route data from personal GPS data collection
-    Single-color mapping, pervasive scale technique to indicate scale across the map"
-    image: assets/images/White_12x36_portfolio_resize_v2.png
+    Watercolor map style, pervasive scale technique to indicate scale across the map"
+    image: assets/images/SouthAmericaByBike.png
     image_alt: "Reduced resolution full-size SA by bike map"
 gallery:
   - url: /assets/images/SA_clip1.png
