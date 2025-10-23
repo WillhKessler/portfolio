@@ -2,16 +2,6 @@
 layout: splash
 classes: wide
 title: "William H. Kessler"
-links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/williamhkessler"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/WillhKessler"
-    - label: "@willhkessler"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/willhkessler"
 header:  
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero_map.jpg
@@ -51,6 +41,16 @@ feature_row:
     url: "/projects/lidar-platform/"
     btn_label: "View Project"
     btn_class: "btn--primary"
+links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/williamhkessler"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/WillhKessler"
+    - label: "@willhkessler"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/willhkessler"
 ---
 {% include feature_row id="intro" type="center" %}
 
