@@ -6,6 +6,3 @@ layout: single
 classes: wide
 author_profile: true
 ---
-
-
-This is the home page content it needs to be really long to make use of the 'wide' class
