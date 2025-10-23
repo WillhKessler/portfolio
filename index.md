@@ -41,16 +41,6 @@ feature_row:
     url: "/projects/lidar-platform/"
     btn_label: "View Project"
     btn_class: "btn--primary"
-links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/williamhkessler"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/WillhKessler"
-    - label: "@willhkessler"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/willhkessler"
 ---
 {% include feature_row id="intro" type="center" %}
 
@@ -83,6 +73,6 @@ I am particularly interested in how cartographic design and geospatial computati
 
 Interested in collaboration or data visualization work?  
 📧 **[willhkessler@gmail.com](mailto:willhkessler@gmail.com)**  
-🔗 [GitHub](https://github.com/YOURUSERNAME) 
+🔗 [GitHub](https://github.com/YOURUSERNAME)
 · [LinkedIn](https://linkedin.com/in/YOURPROFILE)
 
