@@ -71,5 +71,4 @@ I am particularly interested in how cartographic design and geospatial computati
 ## Contact
 
 Interested in collaboration or data visualization work?  
-📧 **[willhkessler@gmail.com](mailto:willhkessler@gmail.com)**  
-🔗 [GitHub](https://github.com/YOURUSERNAME) · [LinkedIn](https://linkedin.com/in/YOURPROFILE)
+{% include links %}
