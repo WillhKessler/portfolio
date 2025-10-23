@@ -7,9 +7,9 @@ header:
   overlay_image: /assets/images/hero_map.jpg
   actions:
     - label: "View Projects"
-      url: "/projects/"
+      url: "/portfolio/projects/"
     - label: "View CV"
-      url: "/assets/docs/William_Kessler_CV_2025.pdf"
+      url: "/portfolio/about/"
 #author_profile: true
 excerpt: "Geospatial Data Wrangling • Geospatial Analysis • Cartography • Health Geography Research"
 intro: 
