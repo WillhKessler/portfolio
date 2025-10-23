@@ -65,7 +65,7 @@ and have co-authored several peer-reviewed studies on these topics.
 My approach emphasizes **reproducibility, computational efficiency, and clear visual communication** of spatial data.  
 I am particularly interested in how cartographic design and geospatial computation can jointly inform environmental and health policy.
 
-[Read more →](/about/)
+[Read more →](/portfolio/about/)
 
 ---
 
