@@ -1,13 +1,4 @@
 main:
-  - title: "Projects"
-    -url: /projects/
-    children:
-      -title: "Cartography Projects"
-      -url: /portfolio/
-      -title: "Coding Projects"
-      -url: /codeportfolio/
-      -title: "Other Projects"
-      -url: /otherprojects/
   - title: "Cartography Portfolio"
     url: /portfolio/
   - title: "Coding Portfolio"
