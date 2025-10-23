@@ -21,13 +21,14 @@ header:
     - label: "View CV"
       url: "/assets/docs/William_Kessler_CV_2025.pdf"
 #author_profile: true
-excerpt: "Cartography • Geospatial Analysis • Environmental Health Research"
+excerpt: "Geospatial Data Wrangling • Geospatial Analysis • Cartography • Health Geography Research"
 intro: 
   - excerpt: >
-      I am a **Geospatial Data Manager and Cartographer** at the Harvard T.H. Chan School of Public Health. 
+      I am a **Geospatial Data Manager** and Cartographer at the Harvard T.H. Chan School of Public Health. 
       My work integrates **GIS, remote sensing, and spatial modeling** to advance research in environmental health, 
-      spatial epidemiology, and ecological monitoring. I build and maintain geospatial data systems, develop analytical 
-      workflows in Python and R, and design visualizations that communicate spatial patterns across scales.
+      spatial epidemiology, and medical geography. I develop analytical workflows for geospatial data in Python and R,
+      build and maintain geospatial data systems,  and design visualizations that communicate spatial patterns across scales.
+      In my free time, I like to make pretty maps, in particular for places I've been and adventures I've undertaken. 
 feature_row:
   - image_path: /assets/images/project1.jpg
     alt: "National Environmental Exposure Mapping"
@@ -57,9 +58,9 @@ feature_row:
 
 ## About
 
-With a background in **geography, biology, and spatial data science**, my professional work spans environmental modeling, 
-public health GIS, and geospatial infrastructure development. I have contributed to projects on **climate-health interactions, 
-noise modeling, and spatial epidemiology**, and have co-authored several peer-reviewed studies and spatial analyses.
+My professional work has spanned ecological niche modeling, public health GIS, geospatial infrastructure development, and state geospatial data governance.
+With academic training in **geography, biology/ecology, and spatial data science**, I have contributed to projects on **climate-health interactions,  vector-borne disease modeling, and spatial epidemiology**, 
+and have co-authored several peer-reviewed studies on these topics.
 
 My approach emphasizes **reproducibility, computational efficiency, and clear visual communication** of spatial data.  
 I am particularly interested in how cartographic design and geospatial computation can jointly inform environmental and health policy.
@@ -71,9 +72,9 @@ I am particularly interested in how cartographic design and geospatial computati
 ## Technical Skills
 
 **GIS & Remote Sensing:** ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online, QGIS, Google Earth Engine  
-**Programming & Analysis:** Python, R, SQL, PostgreSQL/PostGIS, JavaScript  
+**Programming & Analysis:** R, Python, SQL, PostgreSQL/PostGIS, JavaScript  
 **Data Visualization:** Mapbox Studio, Leaflet, Tableau, Adobe Illustrator  
-**Techniques:** Machine learning, spatial statistics, cluster detection, ensemble modeling, environmental exposure modeling  
+**Techniques:** Ecological niche modeling, point pattern analysis, machine learning/ensemble modeling, spatial statistics, cluster detection 
 **Infrastructure:** Git/GitHub, RedCap, Linux HPC environments  
 
 ---
