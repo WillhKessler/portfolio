@@ -81,4 +81,4 @@ I am particularly interested in how cartographic design and geospatial computati
 ## Contact
 
 Interested in collaboration or data visualization work?  
-{% include links %}
+{% include feature_row id="links" type="center" %}
