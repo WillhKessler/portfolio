@@ -4,7 +4,7 @@ main:
     children:
       -title: "Cartography Projects"
       -url: /portfolio/
-      -title: "Coding Projects
+      -title: "Coding Projects"
       -url: /codeportfolio/
       -title: "Other Projects"
       -url: /otherprojects/
