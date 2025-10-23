@@ -2,6 +2,16 @@
 layout: splash
 classes: wide
 title: "William H. Kessler"
+links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/williamhkessler"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/WillhKessler"
+    - label: "@willhkessler"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/willhkessler"
 header:  
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero_map.jpg
