@@ -6,8 +6,10 @@ header:
   overlay_filter: "0.3"
   overlay_image: /assets/images/hero_map.jpg
   actions:
-    - label: "View Projects"
-      url: "/portfolio/projects/"
+    - label: "View Cartography Projects"
+      url: "/portfolio/"
+    - label: "View Code Projects"
+      url: "/codeportfolio/"
     - label: "View CV"
       url: "/about/"
 #author_profile: true
