@@ -97,6 +97,9 @@ collections:
   codeportfolio:
     output: true
     permalink: /:collection/:path/
+  codetutorials:
+    output: true
+    permalink: /:collection/:path/
     
   
 
