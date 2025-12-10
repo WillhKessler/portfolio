@@ -1,5 +1,5 @@
 ---
-title: "First Code Portfolio"
+title: "Interactive Figures of Montana's Water Resources"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/foo-bar-identity.jpg
