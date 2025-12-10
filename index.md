@@ -64,7 +64,7 @@ I am particularly interested in how cartographic design and geospatial computati
 **GIS & Remote Sensing:** ArcGIS Pro, ArcGIS Enterprise, ArcGIS Online, QGIS, Google Earth Engine  
 **Programming & Analysis:** R, Python, SQL, PostgreSQL/PostGIS, JavaScript  
 **Data Visualization:** Mapbox Studio, Leaflet, Tableau, Adobe Illustrator  
-**Techniques:** Ecological niche modeling, point pattern analysis, machine learning/ensemble modeling, spatial statistics, cluster detection 
+**Techniques:** Ecological niche modeling, point pattern analysis, machine learning/ensemble modeling, spatial statistics, cluster detection  
 **Infrastructure:** Git/GitHub, RedCap, Linux HPC environments  
 
 ---
