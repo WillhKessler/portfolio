@@ -2,7 +2,7 @@
 title: "The Great Divide Mountain Bike Route"
 excerpt: "A personal project celebrating a 2022 cycling trip from Banff, AB to Antelope Wells, NM. A study on single-color mapping"
 header:
-  image: /assets/images/foo-bar-identity.jpg
+  # image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/GDMBR_portfolioclip2.png
 sidebar:
   - title: "The Great Divide Mountain Bike Route"
