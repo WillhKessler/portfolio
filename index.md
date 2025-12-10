@@ -22,23 +22,23 @@ intro:
 feature_row:
   - image_path: /assets/images/project1.jpg
     alt: "National Environmental Exposure Mapping"
-    title: "National Environmental Exposure Mapping"
-    excerpt: "Development of fine-scale exposure datasets and geospatial data delivery systems for public health cohorts. Implemented with ArcGIS Enterprise, PostgreSQL, and Python parallel processing."
-    url: "/projects/environmental-exposure/"
-    btn_label: "View Project"
+    title: "Linking Environmental Exposures to Public Health Datasets"
+    excerpt: "A Parallel Processing Framework for linking raster time-series environmental exposures to public health cohorts using R"
+    url: "/codetutorials/parallelizedrasterextraction/"
+    btn_label: "View Tutorial"
     btn_class: "btn--primary"
-  - image_path: /assets/images/project2.jpg
-    alt: "Montana Geo-Enabled Elections"
-    title: "Montana Geo-Enabled Elections"
-    excerpt: "Statewide implementation of GIS-based election management and precinct digitization workflows. Automated with Python and ArcPy, published via ArcGIS Online."
-    url: "/projects/geo-enabled-elections/"
-    btn_label: "View Project"
+  - image_path: /assets/images/GDMBR_portfolioclip2.png
+    alt: "The Great Divide Mountain Bike Route"
+    title: "The Great Divide Mountain Bike Route"
+    excerpt: "An artistic cartographic design of the Great Divide Mountain Bike Route"
+    url: "/portfolio/GDMBR_map/"
+    btn_label: "View Map"
     btn_class: "btn--primary"
   - image_path: /assets/images/project3.jpg
-    alt: "LiDAR Inventory and Visualization Platform"
-    title: "LiDAR Inventory and Visualization Platform"
-    excerpt: "Built and maintained a LiDAR metadata database and web-based visualization tools for Montana’s statewide LiDAR collections. Developed with Python, SQL, and Google Earth Engine."
-    url: "/projects/lidar-platform/"
+    alt: "Montana Water Resources Inventory"
+    title: "Montana Water Resources Inventory"
+    excerpt: "Automated Visualization of Montana water resources using Python."
+    url: "/codeportfolio/mt_water"
     btn_label: "View Project"
     btn_class: "btn--primary"
 ---
