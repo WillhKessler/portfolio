@@ -1,6 +1,7 @@
 ---
 title: "Parallel Raster Extractions using R and SLURM "
-excerpt: "A personal project celebrating a 2022 cycling trip from Banff, AB to Antelope Wells, NM. A study on single-color mapping"
+excerpt: "A parallel processing framework for extracting raster values to points using the R 'terra' package on a compute cluster with SLURM"
+classes: wide
 header:
   # image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/GDMBR_portfolioclip2.png
