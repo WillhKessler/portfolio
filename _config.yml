@@ -127,7 +127,15 @@ defaults:
       collections:
   # _portfolio
   - scope:
-      path: ""
+      path: "portfolio"
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+  # _portfolio
+  - scope:
+      path: "codetutorials"
       type: portfolio
     values:
       layout: single
