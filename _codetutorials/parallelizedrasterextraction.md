@@ -26,4 +26,5 @@ gallery:
     alt: "placeholder image 3"
 ---
 
+
 some text here
