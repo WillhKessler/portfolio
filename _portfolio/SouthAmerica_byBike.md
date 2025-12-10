@@ -23,6 +23,7 @@ gallery:
   - url: /assets/images/SA_clip3.png
     image_path: assets/images/SA_clip3.png
     alt: "placeholder image 3"
+classes: wide
 ---
 
 In 2017, a friend set off on an ambitious first foray into bicycle touring. Freshly free from the shackles of higher education and itching to try something new, he decided to cycle from his family's home in Colombia as far south as a broke college student could get. As it turns out, that was somewhere in the high Andes of Peru.  
