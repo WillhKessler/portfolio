@@ -24,7 +24,7 @@ feature_row:
     alt: "National Environmental Exposure Mapping"
     title: "Linking Environmental Exposures to Public Health Datasets"
     excerpt: "A Parallel Processing Framework for linking raster time-series environmental exposures to public health cohorts using R"
-    url: "/codetutorials/parallelizedrasterextraction/"
+    url: "/codeportfolio/parallelizedrasterextraction/"
     btn_label: "View Tutorial"
     btn_class: "btn--primary"
   - image_path: /assets/images/GDMBR_portfolioclip2.png
