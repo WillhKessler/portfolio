@@ -9,7 +9,7 @@ header:
     - label: "View Projects"
       url: "/portfolio/projects/"
     - label: "View CV"
-      url: "/portfolio/about/"
+      url: "/about/"
 #author_profile: true
 excerpt: "Geospatial Data Wrangling • Geospatial Analysis • Cartography • Health Geography Research"
 intro: 
