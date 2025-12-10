@@ -127,7 +127,7 @@ defaults:
       collections:
   # _portfolio
   - scope:
-      path: "portfolio"
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
