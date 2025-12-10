@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Code Tutorials
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /codetutrials/
+collection: codetutorials
 entries_layout: grid
 classes: wide
 ---
