@@ -1,6 +1,6 @@
 ---
-title: "Parallel Raster Extraction To Points using R and SLURM"
-excerpt: "Utilizing a computing cluster to extract raster values to points"
+title: "Parallel Raster End SLURM"
+excerpt: "Utilizing uster toer values to points"
 header:
   # image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/GDMBR_portfolioclip2.png
