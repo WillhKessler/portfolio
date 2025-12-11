@@ -7,9 +7,9 @@ header:
   teaser: /assets/images/GDMBR_portfolioclip2.png
 sidebar:
   - title: "Tools and Techniques"
-    text: "R- Script set up and execution,
+    text: "R- Script set up and execution,  
     R packages: batchtools, terra  
-    Bash- SLURM submission script template
+    Bash- SLURM submission script template  
     Computing Cluster- Multiple compute nodes for parallel computations"
 ---
 
