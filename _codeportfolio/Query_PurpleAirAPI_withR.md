@@ -6,8 +6,8 @@ header:
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Tools and Techniques"
-    text: "R/RStudio- Script set up and execution,  
-    R packages: dplyr, httr  
+    text: "R/RStudio- Script set up and execution \n 
+    R packages: dplyr, httr  \n
     API Access- PurpleAir AQ Sensor Network API"
 
 gallery:
