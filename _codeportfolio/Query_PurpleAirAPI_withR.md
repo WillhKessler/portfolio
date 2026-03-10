@@ -1,5 +1,5 @@
 ---
-title: "Querying Data from Purple Air Monitors"
+title: "How to Query Data from Purple Air Monitors"
 excerpt: "Using R and the PurpleAir API to find and download indoor and outdoor air quality data"
 classes: wide
 header:
@@ -11,7 +11,7 @@ sidebar:
     R packages: dplyr, httr  \n
     API Access- PurpleAir AQ Sensor Network API"
 ---
-asdfasdf
+# Querying Data from Purple Air Monitors
 ## Pull PurpleAir sensor history for a list of sensors
 Accessing an API and pulling data can be both a huge time-suck initially and save immense amounts of time in the long run. The Purple Air Network is a distributed network of air quality monitors for assessing indoor and outdoor air quality. 
 This tutorial will show you how to create a list of all the sensors in a given area, and then access historical data averages for a fixed time window, and save the results to ONE combined file
