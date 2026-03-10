@@ -12,12 +12,11 @@ sidebar:
     R packages: dplyr, httr  \n
     API Access- PurpleAir AQ Sensor Network API"
 ---
-# Querying Data from Purple Air Monitors
-## Pull PurpleAir sensor history for a list of sensors
+# Pull PurpleAir sensor history for a list of sensors
 Accessing an API and pulling data can be both a huge time-suck initially and save immense amounts of time in the long run. The Purple Air Network is a distributed network of air quality monitors for assessing indoor and outdoor air quality. 
 This tutorial will show you how to create a list of all the sensors in a given area, and then access historical data averages for a fixed time window, and save the results to ONE combined file
 
-### Get A Purple Air API Key: 
+# Get A Purple Air API Key: 
 To access the Purple Air API, you need a unique API key. Keys are used to control access to the API, track usage, and charge accounts for frequent requests. 
 Thankfully, Purple Air provides 1 million free credits to allow for testing, small data downloads, and non-commercial use. This will be more than sufficient for grabbing daily data for large areas. 
 
@@ -26,15 +25,15 @@ To create our key, we first need to create a Purple Air developers account. This
 
 Once your account is created, you'll need to create API keys. Select the 'API Keys' tab at the top of the developer dashboard, and create a key with teh '+ API Key' button. Save the key string, we'll use it later. 
 
-### Determine your Area of Interest: 
+# Determine your Area of Interest: 
 If you want to download data from multiple sensors in a geographic area, you'll need to know the latitude and longitude for the Northwest and Southeast corners of your bounding box. At this time the API is limited to rectangular extents, so if you are interested in a specific geography, you'll need to determine the maximum extent of the area, and subset your returned list of sensors later (not covered here). 
 
 An easy way to do this is with Google Maps. Find your NW corner on the map, click on the map, and write down the returned latitude and longitude values. Repeat for the SE corner. 
 
 Now, we'll take this information and begin querying the API. Remember, the free credits are limited, so try not to rerun your analysis more often than necessary. 
 
-### Accessing the API with R
-#### Load necessary R packages
+# Accessing the API with R
+## Load necessary R packages
 First, we will need to set our R working directory and load the necessary packages. 
 * `readr`
 * `dplyr` for general data structure manipulations
@@ -53,7 +52,7 @@ library(jsonlite)
 require('purrr')
 ```
 
-### Create a list of sensors for your geographic area:
+## Create a list of sensors for your geographic area:
 Using the extent from the latitude and longitudes you determined earlier, we are going to determine the proper URL formatting. The easiest way to do this is to pre-format the URL using test call at the bottom of the [Get Sensors Data API guide](https://api.purpleair.com/#api-sensors-get-sensors-data). You'll need to supply your API key and the necessary fields.  
 ```
 # PurpleAir READ API key
@@ -78,7 +77,7 @@ names(sensor_df)<- sensor_txt$fields
 write.csv(sensor_df, "./PurpleAir_SouthernCAsensors.csv")
 ```
 
-### Download daily data for AOI
+## Download daily data for AOI
 Now that we have the list of sensors, 
 ```
 # Sensor list CSV
@@ -194,6 +193,6 @@ write_csv(final, OUT_CSV)
 
 ```
 
-### Usage
+# Usage
 Using this approach, querying 1 month of daily data from the greater LA area (808) sensors cost approximately 314,488 credits.
 Using this approach, querying 16 month of daily data from southern California sensors (~2488) cost approximately 1.05 million credits.
