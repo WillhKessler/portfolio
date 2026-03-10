@@ -7,9 +7,9 @@ header:
   teaser: /assets/images/parallelrasterextraction.png
 sidebar:
   - title: "Tools and Techniques"
-    text: " * R/Rstudio: Script set up and execution 
-            * R packages: batchtools, terra
-            * Bash: SLURM submission script template  
+    text: " * R/Rstudio: Script set up and execution \r\n
+            * R packages: batchtools, terra \r\n
+            * Bash: SLURM submission script template \r\n  
             * Computing Cluster: Multiple Linux compute nodes for parallel computations, jobs handled with SLURM"
 ---
 
