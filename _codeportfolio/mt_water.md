@@ -3,8 +3,8 @@ title: "Interactive Figures of Montana's Water Resources"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 classes: wide
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  #image: /assets/images/foo-bar-identity.jpg
+  #teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
   - title: "Tools and Techniques"
     text: " * R/Rstudio: Script set up and execution \r\n
