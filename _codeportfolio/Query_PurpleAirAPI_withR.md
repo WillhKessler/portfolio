@@ -1,6 +1,7 @@
 ---
 title: "Querying Data from Purple Air Monitors"
 excerpt: "Using R and the PurpleAir API to find and download indoor and outdoor air quality data"
+classes: wide
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
