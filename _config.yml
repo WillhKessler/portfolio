@@ -141,7 +141,7 @@ defaults:
   # _codeportfolio
   - scope:
       path: "_codeportfolio"
-      type: posts
+      type: codeportfolios
     values:
       layout: single
       author_profile: true
