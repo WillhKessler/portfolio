@@ -5,6 +5,7 @@ header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
+  author: William Kessler
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
