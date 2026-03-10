@@ -3,8 +3,8 @@ title: "Parallel Raster Extractions using R and SLURM "
 excerpt: "A parallel processing framework for extracting raster values to points using the R 'terra' package on a compute cluster with SLURM"
 classes: wide
 header:
-  # image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/GDMBR_portfolioclip2.png
+  # image: /assets/images/parallelrasterextraction.png
+  teaser: /assets/images/parallelrasterextraction.png
 sidebar:
   - title: "Tools and Techniques"
     text: "R- Script set up and execution,  
