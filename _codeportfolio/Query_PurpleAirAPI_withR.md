@@ -4,7 +4,7 @@ excerpt: "Using R and the PurpleAir API to find and download indoor and outdoor 
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
-author: William Kessler
+author_profile: true
 
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
