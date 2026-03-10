@@ -3,8 +3,9 @@ title: "How to Query Data from Purple Air Monitors"
 excerpt: "Using R and the PurpleAir API to find and download indoor and outdoor air quality data"
 classes: wide
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  overlay_color: #bf5ebf
+  image: /assets/images/purpleair.png
+  teaser: /assets/images/purpleair.png
 sidebar:
   - title: "Tools and Techniques"
     text: "R/RStudio- Script set up and execution  \n 
