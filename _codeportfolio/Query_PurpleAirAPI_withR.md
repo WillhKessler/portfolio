@@ -5,12 +5,10 @@ header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Developer, Analyst"
-  - title: "Software"
-    text: "R, Rstudio, API Access"
+  - title: "Tools and Techniques"
+    text: "R/RStudio- Script set up and execution,  
+    R packages: dplyr, httr  
+    API Access- PurpleAir AQ Sensor Network API"
 
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
