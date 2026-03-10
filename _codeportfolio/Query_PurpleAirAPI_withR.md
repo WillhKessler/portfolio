@@ -8,11 +8,10 @@ header:
   teaser: /assets/images/purpleair.png
 sidebar:
   - title: "Tools and Techniques"
-    text: "
-    * R/RStudio: Script set up and execution
-    * R packages: dplyr, httr
-    *  API Access: PurpleAir AQ Sensor Network API
-      " 
+    items:
+    - R/RStudio: Script set up and execution
+    -  R packages: dplyr, httr
+    -  API Access: PurpleAir AQ Sensor Network API 
 ---
 # Pull PurpleAir sensor history for a list of sensors
 Accessing an API and pulling data can be both a huge time-suck initially and save immense amounts of time in the long run. The Purple Air Network is a distributed network of air quality monitors for assessing indoor and outdoor air quality. 
