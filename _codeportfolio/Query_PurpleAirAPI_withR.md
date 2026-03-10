@@ -9,8 +9,8 @@ header:
 sidebar:
   - title: "Tools and Techniques"
     text: "\r\n
-    * R/RStudio: Script set up and execution
-    * R packages: dplyr, httr
+    * R/RStudio: Script set up and execution \r\n
+    * R packages: dplyr, httr \r\n
     * API Access: PurpleAir AQ Sensor Network API" 
 ---
 # Pull PurpleAir sensor history for a list of sensors
