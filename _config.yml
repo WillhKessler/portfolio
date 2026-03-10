@@ -140,7 +140,7 @@ defaults:
       share: true
   # _codeportfolio
   - scope:
-      path: "_codeportfolio"
+      path: ""
       type: codeportfolios
     values:
       layout: single
