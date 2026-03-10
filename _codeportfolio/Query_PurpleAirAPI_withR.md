@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/purpleair.png
 sidebar:
   - title: "Tools and Techniques"
-    text: " | * R/RStudio: Script set up and execution
+    text: "* R/RStudio: Script set up and execution
     * R packages: dplyr, httr
     *  API Access: PurpleAir AQ Sensor Network API"
 ---
