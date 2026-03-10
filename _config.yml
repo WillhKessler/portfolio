@@ -138,18 +138,18 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  # _codetutorials
+  # _codeportfolio
   - scope:
-      path: ""
-      type: codetutorials
+      path: "_codeportfolio"
+      type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
   # _codetutorials
   - scope:
       path: ""
-      type: codeportfolio
+      type: codetutorials
     values:
       layout: single
       author_profile: false
