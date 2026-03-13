@@ -1,7 +1,9 @@
 ---
 permalink: /adventures/
 title: "Bike, Backpacks, and Boats"
-layout: "splash"
+layout: collection
+collection: adventures
+entries_layout: grid
 classes: wide
 ---
 
