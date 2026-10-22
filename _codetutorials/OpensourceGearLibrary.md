@@ -28,8 +28,6 @@ Use Google Forms to create a simple request form.
 ## Step 1
 
 
-```
 
 # Usage
-Using this approach, querying 1 month of daily data from the greater LA area (808) sensors cost approximately 314,488 credits.
-Using this approach, querying 16 month of daily data from southern California sensors (~2488) cost approximately 1.05 million credits.
+
