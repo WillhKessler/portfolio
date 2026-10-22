@@ -4,8 +4,8 @@ excerpt: "Using Github Pages and Google Sheets to create a simple 'Library of Th
 classes: wide
 header:
   overlay_color: "#bf5ebf"
-  image: /assets/images/Library of Things.png
-  teaser: /assets/images/Library of Things.png
+  image: /assets/images/LibraryOfThings.png
+  teaser: /assets/images/LibraryOfThings.png
 sidebar:
   - title: "Tools and Techniques"
     text: "\r\n
